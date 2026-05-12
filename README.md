@@ -161,24 +161,6 @@ Password: admin
 /admin/customers
 ```
 
----
-
-# 🖼️ Screenshots
-
-## Home Page
-
-![Home](screenshots/home.png)
-
-## Admin Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## Products Page
-
-![Products](screenshots/products.png)
-
----
-
 # 🧪 Build & Test
 
 ```bash
